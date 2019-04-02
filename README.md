@@ -24,6 +24,7 @@ There are already many encrypting filesystem in widespread use. Some notable one
 ## Install
 
 [![Build Status](https://api.travis-ci.org/netheril96/securefs.svg?branch=master)](https://travis-ci.org/netheril96/securefs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdenispol%2Fsecurefs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdenispol%2Fsecurefs?ref=badge_shield)
 
 ### Dependency: FUSE
 
@@ -80,3 +81,7 @@ To request full format, which is no longer the default, run `securefs create --f
 ## Design and algorithms
 
 See [here](docs/design.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdenispol%2Fsecurefs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdenispol%2Fsecurefs?ref=badge_large)
